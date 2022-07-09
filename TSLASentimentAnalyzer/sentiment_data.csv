@@ -1,0 +1,2 @@
+,timestamp,counter,close,volume,sentiment_score,close_lag1,perc_change_close,sentiment_score_lag1,perc_change_sentiment,sentiment_SMA3mo
+1,2022-07-01,4225,681.78998,24781500,0.8305569593723003,673.41998,0.012429093654156214,0.8490864877090898,-0.02182289861517376,0.0

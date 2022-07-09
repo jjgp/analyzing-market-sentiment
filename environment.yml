@@ -1,0 +1,20 @@
+name: tsla_bot
+channels:
+  - apple
+  - conda-forge
+dependencies:
+  - loguru==0.6.0
+  - matplotlib==3.5.2
+  - pandas==1.4.2
+  - pip
+  - plotly==5.9.0
+  - praw==7.6.0
+  - streamlit==1.10.0
+  - transformers==4.19.4
+  - tensorflow-deps=2.8.0
+  - pip:
+    - pytorch-pretrained-bert
+    - pydantic==1.9.1
+    - pydantic[dotenv]
+    - tensorflow-macos==2.8.0
+    - tensorflow-metal==0.4.0
